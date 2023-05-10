@@ -1,0 +1,50 @@
+.ratingItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+.onBtn .form-check.form-switch {
+  position: absolute;
+  right: 0;
+  top: -25px !important;
+}
+
+.nirog-team-font {
+  font-size: 10px;
+}
+p.nirog-team-font.text-center {
+  position: absolute;
+  right: -3px;
+  top: -43px;
+}
+.next-btn {
+  margin-left: 50%;
+  /* transform: translate(-50%); */
+}
+.show-data span {
+  text-decoration: underline;
+  margin-right: 15px;
+  font-size: 16px;
+  color: #333;
+  text-underline-offset: 7px;
+}
+.comment {
+  width: 100%;
+  box-shadow: none !important;
+}
+
+
+textarea::placeholder{
+  font-size: 14px !important;
+}
+
+
+
+
+
+
+
+
+

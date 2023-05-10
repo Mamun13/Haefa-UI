@@ -1,0 +1,10 @@
+.camera{
+	overflow-x: hidden;
+	margin-left: 50%;
+	transform: translate(-50%);
+	background-color: transparent!important;
+}
+.camera-btn{
+	margin-left: 50%;
+	transform: translate(-50%);
+}

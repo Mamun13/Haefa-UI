@@ -1,0 +1,108 @@
+
+.headerTop{
+	border-top: 1px solid #777;
+	border-bottom: 1px solid #777;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.leftBar{
+	max-width: 250px;
+	border-right: 1px solid #777;
+	min-height: 500px;
+
+}
+.leftBar .testTitle{
+	border-bottom: 1px solid #777;
+	padding-bottom: 5px;
+	padding-right: 10px;
+}
+.leftBar p{
+	margin-bottom: 5px;
+	padding-right: 15px;
+}
+
+.bottom{
+	border-top: 1px solid #777;
+}
+
+.apiLogo{
+	max-width: 40px;
+	transform: translateY(-5px);
+	margin-left: 5px;
+}
+
+.signatureBox{
+	position: absolute;
+	top: -120px;
+	left: 0;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.signatureBox p{
+	border-top: 1px solid #777;
+	padding: 5px 30px;
+}
+
+.signatureImage{
+	display: inline-block;
+	width: 100px;
+	object-fit: contain;
+	margin-bottom: 5px;
+}
+
+.fs{
+	font-size: 13px;
+}
+
+/* .exportBtn{
+	font-size: 15px;
+	color: #fff;
+	display: inline-block;
+	width: 33px;
+	height: 33px;
+	text-align: center;
+	line-height: 31px;
+	margin-bottom: 0;
+	border-radius: 7px;
+	background-color: #444;
+	transition: all 0.4s;
+}
+
+.exportBtn:hover{
+	color: #fff;
+	opacity: 0.7;
+}
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

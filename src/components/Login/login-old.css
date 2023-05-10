@@ -1,0 +1,38 @@
+.Heading {
+  color: var(--main-text-color);
+}
+.logo-size{
+  height: 100px;
+  width: 100px;
+  margin-left: 50%;
+  transform: translate(-50%);
+}
+.login-btn-bg{
+  background-color: var(--main-color);
+}
+.login-btn-bg:hover{
+  background-color: var(--main-hover-color);
+}
+.box-shadow{
+  box-shadow: none !important;
+  border-color: #aaa;
+  border-radius: 100px;
+	border-top-left-radius: 100px !important;
+	border-bottom-left-radius: 100px !important;
+}
+.login-btn{
+  border-radius: 100px;
+}
+.card-width{
+  width: 400px;
+}
+.api-logo{
+  width: 30px;
+  height: 15px;
+  margin-top: -7px!important;
+}
+.apilogo-position{
+  position: absolute;
+  content: '';
+  bottom: 0;
+}

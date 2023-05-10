@@ -1,0 +1,28 @@
+.ratingItem{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.form-check.form-switch{
+  position: absolute;
+    right: 0;
+    top: -39px;
+}
+
+  .form-check.form-switch.btn {
+    position: absolute;
+    right: 96px;
+    top: -45px;
+  }
+.nirog-team-font{
+  font-size: 10px;
+}
+p.nirog-team-font.text-center{
+  position: absolute;
+    right: -3px;
+    top: -43px;
+}
+.next-btn{
+  margin-left: 50%;
+  /* transform: translate(-50%); */
+}
